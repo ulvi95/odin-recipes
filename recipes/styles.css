@@ -1,0 +1,23 @@
+#first
+{
+    background-color: yellow;
+}
+
+img
+{
+    width: 300px;
+    height: auto;
+}
+
+.test1
+{
+    text-align: center;
+}
+
+.test1 #test
+{
+    background-color: red;
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+}
